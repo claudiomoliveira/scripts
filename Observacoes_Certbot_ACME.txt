@@ -1,0 +1,9 @@
+Observações:
+Certbot:
+
+Requer instalação prévia (use apt install certbot ou yum install certbot, dependendo do sistema).
+Ideal para automatizar a renovação de certificados.
+ACME:
+
+Este exemplo é básico e precisa ser adaptado para lidar com validações específicas (HTTP-01, DNS-01, etc.).
+A biblioteca acme pode ser instalada via pip install acme.
